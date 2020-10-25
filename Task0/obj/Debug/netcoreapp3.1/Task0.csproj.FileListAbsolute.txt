@@ -1,0 +1,13 @@
+D:\some work\C#\EPAM\Task0\Task0\bin\Debug\netcoreapp3.1\Task0.exe
+D:\some work\C#\EPAM\Task0\Task0\bin\Debug\netcoreapp3.1\Task0.deps.json
+D:\some work\C#\EPAM\Task0\Task0\bin\Debug\netcoreapp3.1\Task0.runtimeconfig.json
+D:\some work\C#\EPAM\Task0\Task0\bin\Debug\netcoreapp3.1\Task0.runtimeconfig.dev.json
+D:\some work\C#\EPAM\Task0\Task0\bin\Debug\netcoreapp3.1\Task0.dll
+D:\some work\C#\EPAM\Task0\Task0\bin\Debug\netcoreapp3.1\Task0.pdb
+D:\some work\C#\EPAM\Task0\Task0\obj\Debug\netcoreapp3.1\Task0.csprojAssemblyReference.cache
+D:\some work\C#\EPAM\Task0\Task0\obj\Debug\netcoreapp3.1\Task0.AssemblyInfoInputs.cache
+D:\some work\C#\EPAM\Task0\Task0\obj\Debug\netcoreapp3.1\Task0.AssemblyInfo.cs
+D:\some work\C#\EPAM\Task0\Task0\obj\Debug\netcoreapp3.1\Task0.csproj.CoreCompileInputs.cache
+D:\some work\C#\EPAM\Task0\Task0\obj\Debug\netcoreapp3.1\Task0.dll
+D:\some work\C#\EPAM\Task0\Task0\obj\Debug\netcoreapp3.1\Task0.pdb
+D:\some work\C#\EPAM\Task0\Task0\obj\Debug\netcoreapp3.1\Task0.genruntimeconfig.cache
